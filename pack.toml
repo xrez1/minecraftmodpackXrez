@@ -1,0 +1,13 @@
+name = "randomModpack"
+author = "xrez"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e974dad6c2838668decaec0ac827224239c4e99cda7c882ec07569bf489d4af7"
+
+[versions]
+forge = "47.2.8"
+minecraft = "1.20.1"
