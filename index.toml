@@ -4,3 +4,8 @@ hash-format = "sha256"
 file = "mods/jei.pw.toml"
 hash = "bdb4b62f139151049e9b26bea10b9cf1401a7638bea581e80ac5658e0eff5498"
 metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "1d529bef310ea748245e22918aedb8e0b721c941d501330a58a1c8a9017ebe49"
+metafile = true
