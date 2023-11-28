@@ -91,11 +91,6 @@ hash = "047c2676a37cbc1e8ba2eef7e590b233a59ba97a04cbd9faf85e6b3412d4a51b"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "49b79603523451f9beb1030d89d9e332b15d8e902ecc3f33901c1b25b8d2e8dd"
-metafile = true
-
-[[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "4da758690c2a7ac4d0e17283203d0b1bac670edfaf42f1863cd624941d3a0145"
 metafile = true
