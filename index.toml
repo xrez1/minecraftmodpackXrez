@@ -16,6 +16,16 @@ hash = "b2f5bbb901028461e8a1e949ea299ca4f32ca9da88dbccaa0bcdef16022430b5"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "219db8b20676139a72d7efd96884a2964955979447c82a1b06137d0e483bc5ab"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "c19b816cfdb18cfcdee50e7ce87a1e83971962d39b77d3057ae4420a24c1b52b"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "2930f6eb3ac116334c6ce7882315e65d0b54eed1cd663687fd6e77dfe3146bd0"
 metafile = true
@@ -31,8 +41,18 @@ hash = "a8beef77c7ca4f31b9b85f4f123f2f461814b249551720b4f75c197e2aca68fc"
 metafile = true
 
 [[files]]
-file = "mods/building-gadgets.pw.toml"
-hash = "d45de601e97a45920d5b22f954243dd9cb3bd8cb54167fc09dd9aefec41e8fcf"
+file = "mods/bountiful.pw.toml"
+hash = "959377544e5aecaaf0e87dfc10456926dd330c7fc91cca95e277686521f009be"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+hash = "bc7f62deef63afee6be8569c580c842d14e0a153a823a3036ce634ef0a43234d"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "c41da4281babbf24ce778fcae1da1da9c2d0bdf9a73b01310e1d7fb120c19cc1"
 metafile = true
 
 [[files]]
@@ -46,8 +66,33 @@ hash = "556f4d100557d0d230ee21dca59cb7fe57b7daba4256bc84fece11875a2e613e"
 metafile = true
 
 [[files]]
+file = "mods/construction-wand.pw.toml"
+hash = "1613f68b9bdd242a957a3a20c5193b640672d11087abcb5c3abe5da45b235e35"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "45f5a397d0250599f736f1e4ac1829b1ce3ba48ccce83adeae5cd387125763cc"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "9f0570c6631ffac8da59951ba93a55724aaf1ac644db68a3376abb99a0c360f8"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "a2663a196a9991708b9eefe7505e1775e67c4ad996a15b493513f318c9b82352"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "047c2676a37cbc1e8ba2eef7e590b233a59ba97a04cbd9faf85e6b3412d4a51b"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "5b5868d9da5c3d76ea1edf2fd19e7b1612e599a625f8e6ef6bf56859df0783b3"
 metafile = true
 
 [[files]]
@@ -71,8 +116,8 @@ hash = "e5264eb103970e9148e18d2b6ed50584d1d897e679db8c74be7b34b940574867"
 metafile = true
 
 [[files]]
-file = "mods/gravestone-mod.pw.toml"
-hash = "5468ace73c2e8a4c8ecf7b8786bdcd0024fbfbfe088e642bbeb30eaf7e1cba21"
+file = "mods/iron-furnaces.pw.toml"
+hash = "83c49a3da5384ef83f99e7d8b84ce9b517c674b797d458e82901749231bab345"
 metafile = true
 
 [[files]]
@@ -81,8 +126,23 @@ hash = "bdb4b62f139151049e9b26bea10b9cf1401a7638bea581e80ac5658e0eff5498"
 metafile = true
 
 [[files]]
+file = "mods/kambrik.pw.toml"
+hash = "b7d3d553250955d3b3a669647e66ef6c4c7a31ee07f04e308432acdebb87adb0"
+metafile = true
+
+[[files]]
 file = "mods/kleeslabs.pw.toml"
 hash = "49a0eddb7f8ebeb781012ae0871d0de67a503357ce2041ec85504126f0852a5e"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "924496b2053a796376b098aa23d95cec889bdc3111a97b1c2749324ddbf1bbfe"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "123208d47b67ef94944debfc350bacfa66d236e4dee03593abfaec27f45899f6"
 metafile = true
 
 [[files]]
@@ -106,6 +166,11 @@ hash = "9d66478fde6c978312f93734d481bcb9ae9c49b74cb4538fce58c65ef15d593c"
 metafile = true
 
 [[files]]
+file = "mods/pipez.pw.toml"
+hash = "2528dfc94a11500d11f3deb651cbd5c697c7ee2fcfd6f275a37cde4fe3f714bb"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "96595b74c0b0d65cc751d81f77a66527cde301ddb064ef4694a0f723bea34344"
 metafile = true
@@ -113,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/reliquary-reincarnations.pw.toml"
 hash = "ad8b3da5238809416fb632b19c842317c0bf990f80b95e1de1b7926a3c5d90ab"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "cfb8bd6c214d11044e237af659a00491d3e8ccfffb30628238165e4565acbd4a"
 metafile = true
 
 [[files]]
@@ -146,13 +216,13 @@ hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
 metafile = true
 
 [[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "92035028821834e6223793604fa8d1c0c962de433198e5bcc847e2a05aefda50"
+file = "mods/spice-of-life-carrot-edition.pw.toml"
+hash = "08faa8239705d280e41d353888bf717906fe71b1d5b9278bac9f5cd87b07efb3"
 metafile = true
 
 [[files]]
-file = "mods/the-one-probe.pw.toml"
-hash = "8237189b8e9d5075accfef861b752aac1aae464f5d8c57d9077117dd863dbee6"
+file = "mods/supplementaries.pw.toml"
+hash = "92035028821834e6223793604fa8d1c0c962de433198e5bcc847e2a05aefda50"
 metafile = true
 
 [[files]]
