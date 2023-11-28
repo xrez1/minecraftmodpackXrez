@@ -46,6 +46,11 @@ hash = "c19b816cfdb18cfcdee50e7ce87a1e83971962d39b77d3057ae4420a24c1b52b"
 metafile = true
 
 [[files]]
+file = "mods/ato.pw.toml"
+hash = "01a0bd2de5a9eb726d35fedfcd6961a97e77c41eda29d4bc7881a2d0bf8dd81e"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "2930f6eb3ac116334c6ce7882315e65d0b54eed1cd663687fd6e77dfe3146bd0"
 metafile = true
@@ -138,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "e5264eb103970e9148e18d2b6ed50584d1d897e679db8c74be7b34b940574867"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "50a83b1b145631dfeb9ede3fd4cda2cfb2ca7d861e606d0bcafb960c3f7b19bd"
 metafile = true
 
 [[files]]
